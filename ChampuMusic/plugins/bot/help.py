@@ -329,7 +329,7 @@ async def about_callback(client: Client, callback_query: CallbackQuery):
         ],
         [
             InlineKeyboardButton(text=" ɪɴsᴛᴀ ", url=f"https://www.instagram.com/ykd_korean_drama/"),
-            InlineKeyboardButton(text=" ʏᴏᴜᴛᴜʙᴇ ", url=f"https://www.youtube.com/@itsMeChampu"),
+            InlineKeyboardButton(text=" ʏᴏᴜᴛᴜʙᴇ ", url=f"https://www.instagram.com/ykd_korean_drama/"),
         ],
         [
             InlineKeyboardButton(text="🔙 Back", callback_data="about")
