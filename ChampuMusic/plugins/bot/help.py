@@ -328,7 +328,7 @@ async def about_callback(client: Client, callback_query: CallbackQuery):
             InlineKeyboardButton(text=" ᴏᴡɴᴇʀ ", user_id=config.OWNER_ID[0])
         ],
         [
-            InlineKeyboardButton(text=" ɪɴsᴛᴀ ", url=f"https://www.instagram.com/shivanshu_deo/"),
+            InlineKeyboardButton(text=" ɪɴsᴛᴀ ", url=f"https://www.instagram.com/ykd_korean_drama/"),
             InlineKeyboardButton(text=" ʏᴏᴜᴛᴜʙᴇ ", url=f"https://www.youtube.com/@itsMeChampu"),
         ],
         [
